@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/llama-de-angel/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Llama de ángel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/llama-de-angel/) |
+| **Get License** | [Get License For Llama de ángel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/llama-de-angel/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `067d4c394e8dc78719a3725bb0fc03f8c3682e8ae3874b5c366850797c4ab6b3` |
 | **Timestamp** | June 24, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
