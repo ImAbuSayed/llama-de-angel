@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/llama-de-angel/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Llama de ángel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/llama-de-angel/) |
+| **Get License** | [Music Rights & Licensing for Llama de ángel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/llama-de-angel/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tu mirada me quema, es una llama de ángel
+> Caí en tu fuego y no quiero que me salven
+> La noche está oscura, pero tú brillas de más
+> Ven y acércate, baby, que esto acaba de empezar
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
